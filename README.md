@@ -1,2 +1,2 @@
 # Bootstrap-Project
-Bootstrap project following a course online
+Bootstrap project for client
